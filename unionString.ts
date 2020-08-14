@@ -1,0 +1,1 @@
+type stringUnion = "hello" | "name";
